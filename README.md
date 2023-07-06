@@ -1,3 +1,9 @@
+```
+rover subgraph publish <APOLLO_GRAPH_REF> \
+--name locations \
+--schema ./subgraph-locations/locations.graphql
+```
+
 # Voyage I: Federation from Day One
 
 Welcome to FlyBy, the companion app of Odyssey Voyage I! You can find the [course lessons and instructions in Odyssey](https://apollographql.com/tutorials/voyage-part1/), Apollo's learning platform.
